@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "945b806e52c3a150a287f16c30bdaa36d9c4df4eea76b1eb7b5309c35f393616"
+build_start_time: [1695729869, 414022922]
+build_end_time: [1695729870, 401380062]
+inputs:
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/DI/Animator.swift": [1695366055, 281888484]
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/DI/DynamicIslandManager.swift": [1695384112, 285303592]
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/DI/TransitionDIAnimationController.swift": [1695373827, 145484924]
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/Supporting Files/AppDelegate.swift": [1694511711, 527370929]
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/Supporting Files/SceneDelegate.swift": [1694511711, 532634258]
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/ViewControllers/FirstViewController/ViewController.swift": [1695729869, 243383407]
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/ViewControllers/FirstViewController/ViewModel/ViewModel.swift": [1695722656, 126096248]
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/ViewControllers/SecondViewController/SecondViewController.swift": [1695374818, 87054014]
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/ViewControllers/SecondViewController/ViewModel/SecondViewModel.swift": [1695722678, 578724861]

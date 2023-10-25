@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+DITest in DITest, no dependencies
+DITest in DITest, no dependencies

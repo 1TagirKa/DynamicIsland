@@ -1,0 +1,13 @@
+Target dependency graph (6 targets)
+Target 'DITest' in project 'DITest'
+➜ Implicit dependency on target 'Pods-DITest' in project 'Pods' via file 'Pods_DITest.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'SnapKit' in project 'Pods' via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-DITest' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+Target 'SnapKit' in project 'Pods' (no dependencies)
+Target 'DITest' in project 'DITest'
+➜ Implicit dependency on target 'Pods-DITest' in project 'Pods' via file 'Pods_DITest.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'SnapKit' in project 'Pods' via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-DITest' in project 'Pods'
+➜ Explicit dependency on target 'SnapKit' in project 'Pods'
+Target 'SnapKit' in project 'Pods' (no dependencies)

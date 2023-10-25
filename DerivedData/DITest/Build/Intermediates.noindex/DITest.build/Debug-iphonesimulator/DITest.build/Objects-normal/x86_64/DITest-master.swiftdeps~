@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.7.1 (swiftlang-5.7.1.135.3 clang-1400.0.29.51)"
+options: "e8be212e70db29b7925ef4f68c076eedaea6ca60d3e6ac308618e68f8eaead39"
+build_start_time: [1694512300, 508402824]
+build_end_time: [1694512300, 547546863]
+inputs:
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/AppDelegate.swift": !private [1694511711, 527370929]
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/SceneDelegate.swift": !private [1694511711, 532634258]
+  "/Users/tagir/Documents/IOS Test/DITest/DITest/ViewController.swift": !private [1694512298, 945634841]

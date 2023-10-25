@@ -1,0 +1,16 @@
+Target dependency graph (8 targets)
+SnapKit in Pods, no dependencies
+Pods-DITest in Pods, depends on:
+SnapKit in Pods (explicit)
+DITest in DITest, depends on:
+Pods-DITest in Pods (implicit dependency via file 'Pods_DITest.framework' in build phase 'Link Binary')
+SnapKit in Pods (implicit dependency via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS')
+SnapKit in Pods, no dependencies
+Pods-DITest in Pods, depends on:
+SnapKit in Pods (explicit)
+DITest in DITest, depends on:
+Pods-DITest in Pods (implicit dependency via file 'Pods_DITest.framework' in build phase 'Link Binary')
+SnapKit in Pods (implicit dependency via options '-framework SnapKit' in build setting 'OTHER_LDFLAGS')
+SnapKit in Pods, no dependencies
+Pods-DITest in Pods, depends on:
+SnapKit in Pods (explicit)
